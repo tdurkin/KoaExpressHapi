@@ -1,0 +1,7 @@
+Requirements:
+Serve static html
+Serve dynamic html
+GET REST endpoint 
+POST REST endpoint 
+PUT  REST endpoint 
+DELETE REST endpoint

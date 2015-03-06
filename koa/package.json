@@ -1,0 +1,20 @@
+{
+  "name": "koa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "koa": "^0.18.1",
+    "koa-bodyparser": "^1.4.0",
+    "koa-ejs": "^1.1.3",
+    "koa-route": "^2.4.0",
+    "koa-static": "^1.4.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
